@@ -1,0 +1,3 @@
+[submodule "PySelenium-Automated-Testing"]
+	path = PySelenium-Automated-Testing
+	url = https://github.com/jnyavo/PySelenium-Automated-Testing
