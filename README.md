@@ -22,5 +22,5 @@ Go ahead and clone the project in XAMPP folder (xampp>htdocs)
 
 ## Execute Automated Testing
 -  The script for automated testing is contained in another repository set up as a submodule for this repository
--  After setting up this login form you can directly launch the **Automated_testing.py** file in the [PySelenium-Automated-Testing repository](https://github.com/jnyavo/PySelenium-Automated-Testing) assuming your settings matches with the default settings
+-  After setting up this login form you can directly launch the **`Automated_testing.py`** file in the [PySelenium-Automated-Testing repository](https://github.com/jnyavo/PySelenium-Automated-Testing) assuming your settings matches with the default settings
 -  Further information about the script usage and parameters is provided in the readme of the repository 
