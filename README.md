@@ -1,7 +1,7 @@
 # Automated-Testing
 Here it contains all the required file for the automated testing; database connection, login page, welcome page and logout page.
 
-Go ahead and clone the project in XAMPP folder (xampp>htdocs)
+Go ahead and clone the project and copy the `Automated_testing` folder in XAMPP folder (xampp>htdocs)
 
 ## Database Folder
 - Start your XAMPP and open phpMyAdmin in your browser.
